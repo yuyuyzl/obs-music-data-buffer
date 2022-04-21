@@ -6,8 +6,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm server`
+
+使用这个命令启动中转服务器，源文件为`server/server.js`
+
 ### `npm start`
 
+使用这个命令启动被作为浏览器源的页面\
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
