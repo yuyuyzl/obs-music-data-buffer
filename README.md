@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+安装`userscript/netease.user.js`到油猴中
+
+然后启动`npm server`和`npm start`，将[http://localhost:3000](http://localhost:3000)作为浏览器源添加到obs
+
+之后前往[music.163.com](https://music.163.com)开始放歌吧
+
 ## Available Scripts
 
 In the project directory, you can run:
